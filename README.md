@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=vIA10kmNXwU
 
+https://raw.githubusercontent.com/RodrigoMvs123/Scroll-to-mapped-Components-CORRECTLY-in-React---Mapping-react-refs/main/README.md
+
 App.js
 import { useState, useEffect, createRef } from 'react'
 import Card from './Components/Card'
